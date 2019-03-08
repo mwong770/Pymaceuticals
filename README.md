@@ -1,6 +1,6 @@
 # Pymaceuticals
 
-* Analyzes the physiological effect of four drugs on mice with squamous cell carcinoma (SCC), a common form of skin cancer.
+* Analyzes the physiological effects of four drugs on mice with squamous cell carcinoma (SCC), a common form of skin cancer.
 
 
 ## Table of Contents
@@ -34,12 +34,12 @@
 
 ## <a name="features"></a> :boom: Features
 
-    * reads csv files with data
-    * creates an error bar chart that shows how the tumor volume changed over time for each treatment
-    * creates an error bar chart that shows how the number of metastatic (cancer spreading) sites changed over time for each treatment
-    * creates a line graph that shows the number of mice still alive through the course of treatment (survival rate)
-    * crates a bar graph that compares the total percent tumor volume change for each drug across the full 45 days
-    * reports findings
+* reads csv files with data
+* creates an error bar chart that shows how the tumor volume changed over time for each treatment
+* creates an error bar chart that shows how the number of metastatic (cancer spreading) sites changed over time for each treatment
+* creates a line graph that shows the number of mice still alive through the course of treatment (survival rate)
+* crates a bar graph that compares the total percent tumor volume change for each drug across the full 45 days
+* reports findings
 
 
 ## <a name="developer"></a> :bust_in_silhouette: Developer
